@@ -30,7 +30,7 @@ A web application to visualize Data Structures and Algorithms (DSA) including So
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/dsa-visualizer.git
+   git clone https://github.com/2004khushig/dsa-visualizer.git
    cd dsa-visualizer
    ```
 
